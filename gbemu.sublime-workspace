@@ -1,0 +1,1086 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"outli",
+				"outline-color"
+			],
+			[
+				"session_scree",
+				"session_screen_finish_session"
+			],
+			[
+				"genre",
+				"generated_files"
+			],
+			[
+				"game_p",
+				"game_page_html"
+			],
+			[
+				"game_va",
+				"game_values_lines"
+			],
+			[
+				"template",
+				"template_lines"
+			],
+			[
+				"body_",
+				"body_start"
+			],
+			[
+				"eprintn",
+				"eprintln\teprintln!(…)"
+			],
+			[
+				"print",
+				"eprintln!(…)"
+			],
+			[
+				"expec",
+				"expected_path"
+			],
+			[
+				"get_conf",
+				"get_configuration_file_path"
+			],
+			[
+				"format",
+				"format!(…)"
+			],
+			[
+				"client_",
+				"client_secret"
+			],
+			[
+				"collect",
+				"collection_init_config"
+			],
+			[
+				"edit_scre",
+				"edit_screen_populate"
+			],
+			[
+				"edit_scree",
+				"edit_screen_populate"
+			],
+			[
+				"session_scre",
+				"session_screen_finish_session"
+			],
+			[
+				"how_log",
+				"how_long_to_beat_type_changed"
+			],
+			[
+				"release_date",
+				"release_date_type_changed"
+			],
+			[
+				"SSess",
+				"SSessionCard"
+			],
+			[
+				"interna",
+				"internal_id"
+			],
+			[
+				"how",
+				"how_long_to_beat"
+			],
+			[
+				"existi",
+				"existing_id"
+			],
+			[
+				"choose_st",
+				"choose_state_display"
+			],
+			[
+				"add_scree",
+				"add_screen_search_igdb"
+			],
+			[
+				"randoizeR_pic",
+				"randomizer_pick_up_and_play_mode_changed"
+			],
+			[
+				"coll",
+				"collection_game_cache"
+			],
+			[
+				"T",
+				"TErgonomicDocument"
+			],
+			[
+				"collection_g",
+				"collection_game_cache"
+			],
+			[
+				"collection_gam",
+				"collection_game_cache"
+			],
+			[
+				"main",
+				"main_nav_div"
+			],
+			[
+				"game_edi",
+				"game_edit_div"
+			],
+			[
+				"randomiz",
+				"randomizer_div"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.zig",
+			"settings":
+			{
+				"buffer_size": 1715,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/C/Users/filip/code/gamechooser2/gamechooser2.sublime-project",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "gbemu.sublime-project",
+			"settings":
+			{
+				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					14,
+					1,
+					"nv_vi_paste",
+					{
+						"before_cursor": false,
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAABUAAAAAAAAAowAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_c",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"motion":
+									{
+										"motion": "nv_vi_w",
+										"motion_args":
+										{
+											"count": 1,
+											"mode": "mode_internal_normal"
+										}
+									},
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "zig-out"
+								}
+							]
+						]
+					},
+					"CAAAAFsAAAAAAAAAWwAAAAAAAAAGAAAAdGFyZ2V0WwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_c",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"motion":
+									{
+										"motion": "nv_vi_select_text_object",
+										"motion_args":
+										{
+											"count": 1,
+											"inclusive": false,
+											"mode": "mode_internal_normal",
+											"text_object": "\""
+										}
+									},
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "zig-c"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ache"
+								}
+							]
+						]
+					},
+					"CgAAAHYAAAAAAAAAdgAAAAAAAAAdAAAAY2xpZW50L3JzLXdhc20tYmluZGdlbi1vdXRwdXR2AAAAAAAAAHcAAAAAAAAAAAAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "./"
+					},
+					"AgAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAHcAAAAAAAAAdwAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/Zig Language/Build Systems/Zig.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					""
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Run File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Run Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Test File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Test Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Format File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Format Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Build Project"
+				]
+			],
+			[
+				"Packages/Zig Language/Build Systems/Zig.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edit proj",
+				"Project: Edit Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"View Package File"
+			],
+			[
+				"package",
+				"View Package File"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/filip/code/gbemu"
+	],
+	"file_history":
+	[
+		"/C/Users/filip/code/gbemu/build.zig.zon",
+		"/C/Users/filip/code/gbemu/src/main.zig",
+		"/C/Users/filip/AppData/Local/Temp/12380a7e-0217-4347-a0d4-d1f81fe4f990_zig-windows-x86_64-0.14.0-dev.3028+cdc9d65b0.zip.990/zig-windows-x86_64-0.14.0-dev.3028+cdc9d65b0/README.md",
+		"/C/Users/filip/AppData/Roaming/gamechooser2_server/config/default-config.toml",
+		"/?nasferatu/gamechooser/default-config.toml",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/lib.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/stats.rs",
+		"/C/Users/filip/code/gamechooser2/gamechooser-core/src/collection_game_filter.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/Cargo.toml",
+		"/D/temp/gamechooser2_test_db/database.json",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/full_collection_values.html",
+		"/C/Users/filip/code/gamechooser2/client/generated_files/game.html",
+		"/C/Users/filip/code/gamechooser2/server/src/main.rs",
+		"/C/Users/filip/code/gamechooser2/gamechooser-core/src/lib.rs",
+		"/C/Users/filip/code/gamechooser2/client/build_wasm.bat",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/sessions_values.html",
+		"/C/Users/filip/code/gamechooser2/client/served_files/styles.css",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/collection_values.html",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/template.html",
+		"/C/Users/filip/code/gamechooser2/.gitignore",
+		"/C/Users/filip/code/gamechooser2/build_wasm_and_serve.sh",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/game_values.html",
+		"/C/Users/filip/code/gamechooser2/gamechooser-core/src/database_v2.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/session_card.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/game.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/collection.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/sessions.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/edit.rs",
+		"/C/Users/filip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ntapi-0.3.7/src/ntexapi.rs",
+		"/C/Users/filip/code/gamechooser2/igdb_api_client/Cargo.toml",
+		"/C/Users/filip/AppData/Roaming/gamechooser2/config/igdb_api_client.toml",
+		"/C/Users/filip/code/gamechooser2/gamechooser-core/src/config.rs",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/stats_values.html",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/randomizer_values.html",
+		"/C/Users/filip/code/gamechooser2/igdb_api_client/src/lib.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/add.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/web.rs",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/edit_values.html",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/server_api.rs",
+		"/C/Users/filip/code/gamechooser2/page-gen/src/main.rs",
+		"/C/Users/filip/code/gamechooser2/server/Cargo.toml",
+		"/C/Users/filip/code/gamechooser2/page-gen/source_files/add_values.html",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/game_card.rs",
+		"/C/Users/filip/code/gamechooser2/client/rs/src/randomizer.rs",
+		"/C/Users/filip/code/gamechooser2/client/served_files/game.html",
+		"/C/Users/filip/code/gamechooser2/notes.md",
+		"/?nasferatu/gamechooser/gamechooser2_igdb_api_client.toml",
+		"/C/Users/filip/code/gamechooser2/build_wasm_and_serve.bat",
+		"/C/Users/filip/code/gamechooser2/gamechooser-core/src/database_v3.rs",
+		"/C/Users/filip/code/gamechooser2/client/build_wasm.sh",
+		"/C/Users/filip/AppData/Roaming/gamechooser2_server/config/gamechooser2_server.toml",
+		"/C/Users/filip/code/gamechooser2/client/served_files/config.html",
+		"/N/fil/temp/id_rsa.pub",
+		"/N/fil/temp/default-config.toml"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 111.2,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.zig",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual_line",
+							"highlight_line": false,
+							"lsp_uri": "file:///C:/Users/filip/code/gbemu/src/main.zig",
+							"syntax": "Packages/Zig Language/Syntaxes/Zig.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/filip/code/gamechooser2/gamechooser2.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual_line",
+							"lsp_uri": "file:///C:/Users/filip/code/gamechooser2/gamechooser2.sublime-project",
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "gbemu.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///C:/Users/filip/code/gbemu/gbemu.sublime-project",
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 248.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Zig Language/Build Systems/Zig.sublime-build",
+	"project": "gbemu.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"zig.zon",
+				"build.zig.zon"
+			],
+			[
+				"main",
+				"src\\main.zig"
+			],
+			[
+				"templ",
+				"page-gen\\source_files\\template.html"
+			],
+			[
+				"game_c",
+				"client\\rs\\src\\game_card.rs"
+			],
+			[
+				"style",
+				"client\\served_files\\styles.css"
+			],
+			[
+				"lib",
+				"client\\rs\\src\\lib.rs"
+			],
+			[
+				"collection_v",
+				"page-gen\\source_files\\collection_values.html"
+			],
+			[
+				"templat",
+				"page-gen\\source_files\\template.html"
+			],
+			[
+				"sess",
+				"client\\rs\\src\\sessions.rs"
+			],
+			[
+				"session.rs",
+				"client\\rs\\src\\sessions.rs"
+			],
+			[
+				"",
+				"page-gen\\source_files\\sessions_values.html"
+			],
+			[
+				"session_va",
+				"page-gen\\source_files\\sessions_values.html"
+			],
+			[
+				"game_val",
+				"page-gen\\source_files\\game_values.html"
+			],
+			[
+				"server m",
+				"server\\src\\main.rs"
+			],
+			[
+				"game_ca",
+				"client\\rs\\src\\game_card.rs"
+			],
+			[
+				"colle",
+				"client\\rs\\src\\collection.rs"
+			],
+			[
+				"sessions.rs",
+				"client\\rs\\src\\sessions.rs"
+			],
+			[
+				"page-gen main",
+				"page-gen\\src\\main.rs"
+			],
+			[
+				"build",
+				"build_wasm_and_serve.sh"
+			],
+			[
+				"page-gen",
+				"page-gen\\src\\main.rs"
+			],
+			[
+				"server main",
+				"server\\src\\main.rs"
+			],
+			[
+				"values.html",
+				"page-gen\\source_files\\full_collection_values.html"
+			],
+			[
+				"values.ht",
+				"page-gen\\source_files\\sessions_values.html"
+			],
+			[
+				"build_w",
+				"client\\build_wasm.sh"
+			],
+			[
+				"game_va",
+				"page-gen\\source_files\\game_values.html"
+			],
+			[
+				"stas",
+				"client\\served_files\\stats.html"
+			],
+			[
+				"session",
+				"client\\served_files\\sessions.html"
+			],
+			[
+				"randomiz",
+				"client\\served_files\\randomizer.html"
+			],
+			[
+				"full_co",
+				"client\\served_files\\full_collection.html"
+			],
+			[
+				"edit.",
+				"client\\served_files\\edit.html"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"collection",
+				"client\\served_files\\collection.html"
+			],
+			[
+				"add",
+				"client\\served_files\\add.html"
+			],
+			[
+				"templa",
+				"page-gen\\source_files\\template.html"
+			],
+			[
+				"app",
+				"client\\served_files\\app.html"
+			],
+			[
+				"page-gn ",
+				"page-gen\\src\\main.rs"
+			],
+			[
+				"config.rs",
+				"gamechooser-core\\src\\config.rs"
+			],
+			[
+				"stats.rs",
+				"client\\rs\\src\\stats.rs"
+			],
+			[
+				"libs.rs",
+				"client\\rs\\src\\lib.rs"
+			],
+			[
+				"cargo toml",
+				"igdb_api_client\\Cargo.toml"
+			],
+			[
+				"server mai",
+				"server\\src\\main.rs"
+			],
+			[
+				"cargotml",
+				"igdb_api_client\\Cargo.toml"
+			],
+			[
+				"igdb",
+				"igdb_api_client\\Cargo.toml"
+			],
+			[
+				"igdb api client lib",
+				"igdb_api_client\\src\\lib.rs"
+			],
+			[
+				"add.rs",
+				"client\\rs\\src\\add.rs"
+			],
+			[
+				"game_car",
+				"client\\rs\\src\\game_card.rs"
+			],
+			[
+				"f",
+				"client\\served_files\\full_collection.html"
+			],
+			[
+				"coll",
+				"client\\rs\\src\\collection.rs"
+			],
+			[
+				"fu",
+				"client\\served_files\\full_collection.html"
+			],
+			[
+				"e",
+				"client\\served_files\\edit.html"
+			],
+			[
+				"server_",
+				"client\\rs\\src\\server_api.rs"
+			],
+			[
+				"game.rs",
+				"client\\rs\\src\\game.rs"
+			],
+			[
+				"edit.rs",
+				"client\\rs\\src\\edit.rs"
+			],
+			[
+				"edit",
+				"client\\served_files\\edit.html"
+			],
+			[
+				".html",
+				"client\\served_files\\sessions.html"
+			],
+			[
+				"server",
+				"client\\rs\\src\\server_api.rs"
+			],
+			[
+				"web",
+				"client\\rs\\src\\web.rs"
+			],
+			[
+				"cargo",
+				"client\\rs\\Cargo.toml"
+			],
+			[
+				"sessions",
+				"client\\rs\\src\\sessions.rs"
+			],
+			[
+				"game",
+				"client\\served_files\\game.html"
+			],
+			[
+				"rando",
+				"client\\rs\\src\\randomizer.rs"
+			],
+			[
+				"ran",
+				"client\\rs\\src\\randomizer.rs"
+			],
+			[
+				"random",
+				"client\\rs\\src\\randomizer.rs"
+			],
+			[
+				"stat",
+				"client\\rs\\src\\stats.rs"
+			],
+			[
+				"randomi",
+				"client\\rs\\src\\randomizer.rs"
+			],
+			[
+				"web.",
+				"client\\rs\\src\\web.rs"
+			],
+			[
+				"main.rs",
+				"server\\src\\main.rs"
+			],
+			[
+				"game.t",
+				"client\\served_files\\game.html"
+			],
+			[
+				"game.htm",
+				"client\\served_files\\game.html"
+			],
+			[
+				"data",
+				"gamechooser-core\\src\\database_v3.rs"
+			],
+			[
+				"database",
+				"gamechooser-core\\src\\database_v3.rs"
+			],
+			[
+				"app.t",
+				"client\\served_files\\app.html"
+			],
+			[
+				"htm",
+				"client\\served_files\\app.html"
+			],
+			[
+				"main ",
+				"server\\src\\main.rs"
+			],
+			[
+				"client lib",
+				"client\\rs\\src\\lib.rs"
+			],
+			[
+				"stats",
+				"client\\rs\\src\\stats.rs"
+			],
+			[
+				"filter",
+				"gamechooser-core\\src\\collection_game_filter.rs"
+			],
+			[
+				"serve rmain",
+				"server\\src\\main.rs"
+			],
+			[
+				"server api",
+				"client\\rs\\src\\server_api.rs"
+			],
+			[
+				"notes",
+				"notes.md"
+			],
+			[
+				"app.htl",
+				"client\\served_files\\app.html"
+			],
+			[
+				"server cargo",
+				"server\\Cargo.toml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
